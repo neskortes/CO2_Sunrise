@@ -3,7 +3,7 @@
  * Updated 2020.05.14
  * Code applicable for any of the SenseAir CO2 sensors; S8, S11, Sunrise, Sunlight
  * Uses the SoftwareSerial library
- */
+ ********************************************************/
 #include <SoftwareSerial.h>
 const int LED_PIN = 5;
 
